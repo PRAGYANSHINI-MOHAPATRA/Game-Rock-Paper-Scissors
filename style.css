@@ -29,7 +29,7 @@ h1{
 }
 
 .choice{
-    height: 142px;
+    height: 145px;
 width: 142px;
 border-radius: 50%;
 transition: scale 0.5s linear; 
@@ -199,6 +199,6 @@ button:hover{
         }
         .choice{
             height: 78px;
-        width: 88px;
+        width: 78px;
         }
 }
